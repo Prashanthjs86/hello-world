@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here, Hey there, just checking to see if this is coming from k8s. THIS PROJECT IS DONE/h2>
+<h1> This was a project to demonstrate how CI/CD works. </h1>
+<h2> The page you are seeing has been gone through a lot. Please be nice to it. </h2>
+<h2> It was done by JS using Jenkins, Ansible and deployed onto Kubernetes. THIS PROJECT IS DONE NOW and the authour has moved on with his life. GOODBYE. </h2>
